@@ -6,7 +6,7 @@ from .spec_from_filemaker_record import MaterialSpecFromFileMakerRecord
 
 class LaserShockEpoxyID(MaterialSpecFromFileMakerRecord) :
     """
-    GEMD representation of a type of Spacer used in the Laser Shock Lab as a Material Spec
+    GEMD representation of a type of Epoxy used in the Laser Shock Lab as a Material Spec
     """
     
     template = OBJ_TEMPL['Epoxy ID']
